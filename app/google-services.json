@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971630121032",
+    "project_id": "mymttqdemo",
+    "storage_bucket": "mymttqdemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971630121032:android:3d5768a900c96a60ad087d",
+        "android_client_info": {
+          "package_name": "com.example.mymttqdemo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0kFqtL1tKWdfjoOB_EyS5F6NtYlsLlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
